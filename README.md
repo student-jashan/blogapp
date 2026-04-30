@@ -15,7 +15,8 @@ The project is built using:
 
 ## 🌐 Live Demo
 
-* 🔗 Link: https://blogapp-fronted.onrender.com/
+* 🔗 Frontend Link: https://blogapp-fronted.onrender.com/
+* 🔗 Backend Link: https://blog-app-eixn.onrender.com/
 
 ---
 
