@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 sqlalchemy
+streamlit
 psycopg2-binary
 python-dotenv
